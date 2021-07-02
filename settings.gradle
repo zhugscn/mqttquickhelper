@@ -1,0 +1,3 @@
+include ':mqttquickhelperlib'
+include ':app'
+rootProject.name = "MqttQuickHelper"
